@@ -10,3 +10,18 @@ cd webapp
 npm install
 
 npm run start
+
+# how to submit a code from vs code
+```
+//make sure you are on main branch
+
+ctrl+shift+p
+create new branch
+Git create branch
+
+//now you can start editing the code
+```
+# how to run the project
+cd project
+npm install
+npm run start
