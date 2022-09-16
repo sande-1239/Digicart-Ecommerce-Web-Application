@@ -6,4 +6,7 @@ https://github.com/sande-1239/Digicart-Ecommerce-Web-Application
 
 ## how to run web application
 cd webapp
+
 npm install
+
+npm run start
