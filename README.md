@@ -11,22 +11,5 @@ npm install
 
 npm run start
 
-<<<<<<< HEAD
-# how to submit a code from vs code
-```
-//make sure you are on main branch
-
-ctrl+shift+p
-create new branch
-Git create branch
-
-//now you can start editing the code
-```
-# how to run the project
-cd project
-npm install
-npm run start
-=======
 ## how to contribute / submit the code
 
->>>>>>> c6ccc13a240cd35e09a42bc2d936ce56e14c3b31
