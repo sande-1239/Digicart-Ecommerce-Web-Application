@@ -10,3 +10,6 @@ cd webapp
 npm install
 
 npm run start
+
+## how to contribute / submit the code
+
