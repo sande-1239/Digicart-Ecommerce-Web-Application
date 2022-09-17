@@ -23,3 +23,12 @@ npm run start
 [first contribution-with command prompt](https://github.com/firstcontributions/first-contributions/blob/main/gui-tool-tutorials/github-windows-vs-code-tutorial.md)
 
 
+## how to submit a code from vs code
+
+```
+//make sure you are on main branch
+crtl+shift+p for open command pallet
+>git create branch
+//now you can start editing code
+
+```
