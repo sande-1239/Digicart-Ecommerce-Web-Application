@@ -1,5 +1,5 @@
 # Digicart-Ecommerce-Web-Application
-1. The primary goal of this project is to sell Digital computer Accessaries and Gaming consoles online. 2.  Basic functionalities for users and Local sellers like registration, login, showing products, payment gateway, adding to cart, and delivery services. 3. Automatic confirmation mail to user after registration. 4. Feedback after delivery 5. Responsive and flexible interface
+1. The primary goal of this project is to sell Digital computer Accessories and Gaming consoles online. 2.  Basic functionalities for users and Local sellers like registration, login, showing products, payment gateway, adding to cart, and delivery services. 3. Automatic confirmation mail to user after registration. 4. Feedback after delivery 5. Responsive and flexible interface
 ## how to clone our project
 ...
 ```git
